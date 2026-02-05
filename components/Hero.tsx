@@ -105,7 +105,7 @@ export function Hero() {
                             {/* Placeholder for Profile Image - Replace with Image component */}
                             {/* <div className="text-4xl">👋</div> */}
                             <Image
-                                src="/Profile2.jpg"
+                                src="/Profile.jpg"
                                 alt="Uvindu"
                                 fill
                                 className="object-cover"
